@@ -1,9 +1,7 @@
-# Classification of Quora Questions - Detection of insincere questions.   
-Transfer Learning for NLP with TensorFlow Hub : Quora Insincere Questions Classification 
+##Detection of Quora insincere questions.   
+Transfer Learning for Neural Language Processing with TensorFlow Hub, and performance visualization 
 
-[1]
-[2]
-[3]
+
 
 
 
